@@ -17,3 +17,5 @@ Run the folder on terminal using artisan command below
   php artisan serve
 ```
     
+## Using the App
+Choose 3 icon on the home page, either Asset for uploading Image, Category for adding category, or Product for adding Product. Interact with the app using Create, Read, and Delete feature for each menu.
