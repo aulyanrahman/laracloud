@@ -16,6 +16,13 @@ Run the folder on terminal using artisan command below
 ```bash
   php artisan serve
 ```
+
+Run the app using Laravel Development URL on your local PC, example
+
+```bash
+  http://127.0.0.1:8000/
+```
+
     
 ## Using the App
 Choose 3 icon on the home page, either Asset for uploading Image, Category for adding category, or Product for adding Product. Interact with the app using Create, Read, and Delete feature for each menu.
